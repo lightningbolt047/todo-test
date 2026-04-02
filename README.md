@@ -10,4 +10,4 @@ DELETE: /:id (Deletes a specific item)
 
 React side uses a simple BrowserRouter implementation with all actions abstracted into the useTodos hook.
 
-Screenshots:
+Demo:
